@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BMI Calculator ~ Kotlin</string>
+    <string name="bmi">BMI</string>
+    <string name="calculator">Calculator</string>
+    <string name="head_content">Body mass index(BMI) is a measure of body fat based on height and weight that applies to adult men and women.</string>
+    <string name="height">Height</string>
+    <string name="age">Age</string>
+    <string name="weight">Weight</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="calculate">Calculate</string>
+    <string name="details">Details</string>
+    <string name="your_bmi_is">Your BMI is</string>
+    <string name="unit">Kg/M\u00B2</string>
+    <string name="normal">Normal</string>
+    <string name="check_another">Check Another</string>
+    <string name="cm">(cm)</string>
+    <string name="kg">(kg)</string>
+    <string name="invalid_input">Invalid input</string>
+    <!-- Kategori BMI -->
+    <string name="under_weight">Under weight</string>
+    <string name="normal_weight">Normal weight</string>
+    <string name="over_weight">Over weight</string>
+    <string name="obese">Obese</string>
+
+</resources>
